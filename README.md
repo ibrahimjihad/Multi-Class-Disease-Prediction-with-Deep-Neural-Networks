@@ -1,7 +1,7 @@
-📋 Project Overview
+📋 Project Overview: 
 This project focuses on the development of an intelligent health risk prediction model using Deep Learning architectures. The primary goal is to identify patterns in patient demographic and clinical data to predict multiple categories of chronic diseases. By leveraging a Deep Neural Network (DNN) built with TensorFlow and Keras, this system achieves high accuracy in multi-class classification, serving as a proof-of-concept for automated diagnostic aids in healthcare.
 
-📊 Dataset
+📊 Dataset:
 The model is trained on a real-world healthcare risk factors dataset (available on Kaggle).
 
 
@@ -13,7 +13,7 @@ Target Classes: 7 distinct health states (Hypertension, Diabetes, Obesity, Healt
 
 Features: 17 key attributes including Age, BMI, Glucose, Blood Pressure, Oxygen Saturation, Family History, and lifestyle factors.
 
-🛠️ Key Tasks & Methodology
+🛠️ Key Tasks & Methodology:
 The project follows a structured data science pipeline:
 
 
@@ -31,7 +31,7 @@ Optimization: Implementation of early stopping and model checkpoints to prevent 
 
 Evaluation: Use of confusion matrices, ROC curves, and classification reports.
 
-🚀 Key Results
+🚀 Key Results:
 
 Test Accuracy: 91.87%.
 
@@ -41,7 +41,7 @@ Predictive Power: The model effectively identifies high-risk patients across 7 d
 
 Framework: Scalable and reproducible pipeline for clinical EHR (Electronic Health Record) validation.
 
-📁 Repository Structure
+📁 Repository Structure:
 
 CSE437_Project_Group6.ipynb: Complete source code for data loading, preprocessing, model training, and evaluation.
 
@@ -51,7 +51,7 @@ Report.pdf: Detailed project documentation including methodology, results, and r
 
 requirements.txt: Necessary libraries (pandas, numpy, tensorflow, scikit-learn, etc.).
 
-💻 Installation & Usage
+💻 Installation & Usage:
 Clone the repository:
 
 Bash
@@ -62,7 +62,7 @@ Bash
 pip install -r requirements.txt
 Run the Jupyter Notebook to train the model or perform predictions.
 
-👥 Authors
+👥 Authors:
 Md. Zobayer (BRAC University) 
 
 Md. Shoyeb Akhter (BRAC University) 
